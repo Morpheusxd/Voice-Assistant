@@ -7,8 +7,10 @@ Komutları anlayabilmeniz için basitleştirilmiş kodlarla bir doğrulama siste
 kodu kimsenin açamayacağı şekilde şifreleyebilirsiniz.
 komut satırı Kali linux Promt:
 
-Giriş Sistemi Mevcut
-Matris görüntüsünü başlatabilirsiniz,
+Özellikler:
+
+Giriş Sistemi Mevcut,
+Matrix görüntüsünü başlatabilirsiniz,
 Google'da arama yapabilirsiniz,
 Youtube'da arama yapabilirsiniz,
 Terminal Rengini Değiştirebilirsiniz,
@@ -31,7 +33,7 @@ command line Kali linux Promt:
 
 Features:
 
-Login System Available
+Login System Available,
 You can start the matrix display,
 You can search on Google,
 You can search youtube,
