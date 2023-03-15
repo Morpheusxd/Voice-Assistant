@@ -1,7 +1,7 @@
 # Voice-Assistant
 
 ***komut ekleyebileceğiniz bir iskeleti vardır,
-kendi sesli asistanınıza dönüştürmek için özelleştirebilirsini
+kendi sesli asistanınıza dönüştürmek için özelleştirebilirsini***
 
 ***Komutları anlayabilmeniz için basitleştirilmiş kodlarla bir doğrulama sistemi koydum,
 kodu kimsenin açamayacağı şekilde şifreleyebilirsiniz.
