@@ -21,11 +21,11 @@ aldığı komutu yazdırabilir***
 
 # Kütüphaneleri Yüklemek İçin
 ***pip install gtts
-+pip install playsound
-+pip install SpeechRecognition
-+pip install pyfiglet
-+pip install termcolor
-+pip install pyautogui***
++ pip install playsound
++ pip install SpeechRecognition
++ pip install pyfiglet
++ pip install termcolor
++ pip install pyautogui***
 
 
 
