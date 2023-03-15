@@ -124,7 +124,7 @@ def yanit(voice):
     if "ekranı temizle" in voice and voice == "ekranı temizle":
         os.system("cls")   
     
-    if "terminal'i kırmızı yap" in voice and voice == "terminali kırmızı yap":
+    if "terminali kırmızı yap" in voice and voice == "terminali kırmızı yap":
         os.system("color 4")
     if "terminali beyaz yap" in voice and voice == "terminali beyaz yap":
         os.system("color 7")
