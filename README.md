@@ -21,6 +21,8 @@ komut satırı Kali linux Promt:***
 + Sistemde Kim Olduğunuzu Öğrenebilirsiniz
 
 
+# Usage Video
+https://www.youtube.com/watch?v=hu0ikdT-1Gc
 
 ***Tanımlanan komutlar dışında söylenenleri tekrarlar ve aynı anda yazdırır.***
 
