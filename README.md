@@ -10,12 +10,17 @@ komut satırı Kali linux Promt:***
 # Özellikler:
 
 + Giriş Sistemi Mevcut,
-+ Matrix görüntüsünü başlatabilirsiniz,
++ Matrix Ekranını başlatabilirsiniz,
 + Google'da arama yapabilirsiniz,
 + Youtube'da arama yapabilirsiniz,
-+ Terminal Rengini Değiştirebilirsiniz,
++ Terminal 5 Farklı Renk Seçeneği,
 + Ekranı temizleyebilirsiniz,
 + aldığı komutu yazdırabilir
++ çıkış yapma
++ Yetkileri Sorgulama
++ Sistemde Kim Olduğunuzu Öğrenebilirsiniz
+
+
 
 ***Tanımlanan komutlar dışında söylenenleri tekrarlar ve aynı anda yazdırır.***
 
