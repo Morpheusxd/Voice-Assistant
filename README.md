@@ -8,7 +8,7 @@ command line Kali linux Promt:
 
 ![image](https://user-images.githubusercontent.com/127852144/225276011-2e1e7d95-0e19-4a5a-bc4c-e04de4f2e335.png)
 
-![image](https://user-images.githubusercontent.com/127852144/225276025-3b38f201-af71-4676-a12e-06a941c02bd4.png)
+![image](https://user-images.githubusercontent.com/127852144/225277458-fda9a5e8-7072-4741-a67b-6b038596b7dd.png)
 
 Features:
 
