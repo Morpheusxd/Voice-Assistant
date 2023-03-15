@@ -1,5 +1,5 @@
 # Voice-Assistant
-#------------------------------------------------------------------------------------------------------------------#
+#--------------------------------------------------------------------------------------------------------------------------#
 komut ekleyebileceğiniz bir iskeleti vardır,
 kendi sesli asistanınıza dönüştürmek için özelleştirebilirsiniz
 
@@ -16,7 +16,8 @@ Ekranı temizleyebilirsiniz,
 aldığı komutu yazdırabilir
 
 Tanımlanan komutlar dışında söylenenleri tekrarlar ve aynı anda yazdırır.
-#------------------------------------------------------------------------------------------------------------------#
+#--------------------------------------------------------------------------------------------------------------------------#
+
 
 it has a skeleton to which you can add commands, 
 you can customize it to turn it into your own voice assistant
