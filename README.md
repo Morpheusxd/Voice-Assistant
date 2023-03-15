@@ -20,7 +20,7 @@ aldığı komutu yazdırabilir***
 ***Tanımlanan komutlar dışında söylenenleri tekrarlar ve aynı anda yazdırır.***
 
 # Kütüphaneleri Yüklemek İçin
-***pip install gtts
+***+ pip install gtts
 + pip install playsound
 + pip install SpeechRecognition
 + pip install pyfiglet
