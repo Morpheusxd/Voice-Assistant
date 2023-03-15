@@ -65,7 +65,7 @@ def authenticate():
         text = pyfiglet.figlet_format("Admin")
         os.system("cls")
         os.system("color a")
-        text = pyfiglet.figlet_format("*Admin Hoşgeldin*")
+        text = pyfiglet.figlet_format("Voice Assistant")
         print(text)
         # input_str = "Hoşgeldin Admin"
         # for c in input_str:
@@ -107,7 +107,7 @@ def yanit(voice):
     if "merhaba" in voice and voice == "merhaba" :
         speak("Sanada Merhaba Dostum")
         
-    if "çıkış yap" in voice and voice == "çıkış yap" and voice == "çıkış":
+    if "çıkış yap" in voice and voice == "çıkış yap":
         speak("Çıkış yapılıyor")
         quit()
         
