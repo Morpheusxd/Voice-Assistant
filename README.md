@@ -9,23 +9,23 @@ komut satırı Kali linux Promt:***
 
 # Özellikler:
 
-***Giriş Sistemi Mevcut,
-Matrix görüntüsünü başlatabilirsiniz,
-Google'da arama yapabilirsiniz,
-Youtube'da arama yapabilirsiniz,
-Terminal Rengini Değiştirebilirsiniz,
-Ekranı temizleyebilirsiniz,
-aldığı komutu yazdırabilir***
++ Giriş Sistemi Mevcut,
++ Matrix görüntüsünü başlatabilirsiniz,
++ Google'da arama yapabilirsiniz,
++ Youtube'da arama yapabilirsiniz,
++ Terminal Rengini Değiştirebilirsiniz,
++ Ekranı temizleyebilirsiniz,
++ aldığı komutu yazdırabilir
 
 ***Tanımlanan komutlar dışında söylenenleri tekrarlar ve aynı anda yazdırır.***
 
 # Kütüphaneleri Yüklemek İçin
-***+ pip install gtts
++ pip install gtts
 + pip install playsound
 + pip install SpeechRecognition
 + pip install pyfiglet
 + pip install termcolor
-+ pip install pyautogui***
++ pip install pyautogui
 
 
 
@@ -42,12 +42,12 @@ command line Kali linux Promt: ***
 
 Features:
 
-***Login System Available,
+- Login System Available,
 - You can start the matrix display,
 - You can search on Google,
 - You can search youtube,
 - You Can Change Terminal Color,
 - You can clean the screen,
-- can print the command it receives***
+- can print the command it receives
 
 ***It repeats what is said except the defined commands and prints at the same time***
