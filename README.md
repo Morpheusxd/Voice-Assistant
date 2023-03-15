@@ -7,7 +7,7 @@ Komutları anlayabilmeniz için basitleştirilmiş kodlarla bir doğrulama siste
 kodu kimsenin açamayacağı şekilde şifreleyebilirsiniz.
 komut satırı Kali linux Promt:
 
-#Özellikler:
+# Özellikler:
 
 Giriş Sistemi Mevcut,
 Matrix görüntüsünü başlatabilirsiniz,
@@ -19,7 +19,7 @@ aldığı komutu yazdırabilir
 
 Tanımlanan komutlar dışında söylenenleri tekrarlar ve aynı anda yazdırır.
 
-#Kütüphaneleri Yüklemek İçin
+# Kütüphaneleri Yüklemek İçin
 pip install gtts
 pip install playsound
 pip install SpeechRecognition
