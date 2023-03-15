@@ -1,4 +1,23 @@
 # Voice-Assistant
+#------------------------------------------------------------------------------------------#
+komut ekleyebileceğiniz bir iskeleti vardır,
+kendi sesli asistanınıza dönüştürmek için özelleştirebilirsiniz
+
+Komutları anlayabilmeniz için basitleştirilmiş kodlarla bir doğrulama sistemi koydum,
+kodu kimsenin açamayacağı şekilde şifreleyebilirsiniz.
+komut satırı Kali linux Promt:
+
+Giriş Sistemi Mevcut
+Matris görüntüsünü başlatabilirsiniz,
+Google'da arama yapabilirsiniz,
+Youtube'da arama yapabilirsiniz,
+Terminal Rengini Değiştirebilirsiniz,
+Ekranı temizleyebilirsiniz,
+aldığı komutu yazdırabilir
+
+Tanımlanan komutlar dışında söylenenleri tekrarlar ve aynı anda yazdırır.
+#------------------------------------------------------------------------------------------#
+
 it has a skeleton to which you can add commands, 
 you can customize it to turn it into your own voice assistant
 
@@ -19,7 +38,5 @@ You can search youtube,
 You Can Change Terminal Color,
 You can clean the screen,
 can print the command it receives
-
-
 
 It repeats what is said except the defined commands and prints at the same time
